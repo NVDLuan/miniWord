@@ -1,0 +1,14 @@
+D:\LapTrinhWindown\Luan_miniWord\bin\Debug\MiniWord_TrinhPhucHieu.exe.config
+D:\LapTrinhWindown\Luan_miniWord\bin\Debug\MiniWord_TrinhPhucHieu.exe
+D:\LapTrinhWindown\Luan_miniWord\bin\Debug\MiniWord_TrinhPhucHieu.pdb
+D:\LapTrinhWindown\Luan_miniWord\obj\Debug\Luan_MiniWord.csproj.AssemblyReference.cache
+D:\LapTrinhWindown\Luan_miniWord\obj\Debug\Luan_MiniWord.csproj.SuggestedBindingRedirects.cache
+D:\LapTrinhWindown\Luan_miniWord\obj\Debug\MiniWord_TrinhPhucHieu.NgayVaGio.resources
+D:\LapTrinhWindown\Luan_miniWord\obj\Debug\MiniWord_TrinhPhucHieu.Properties.Resources.resources
+D:\LapTrinhWindown\Luan_miniWord\obj\Debug\MiniWord_TrinhPhucHieu.ThayThe.resources
+D:\LapTrinhWindown\Luan_miniWord\obj\Debug\MiniWord_TrinhPhucHieu.TimKiem.resources
+D:\LapTrinhWindown\Luan_miniWord\obj\Debug\Luan_MiniWord.csproj.GenerateResource.cache
+D:\LapTrinhWindown\Luan_miniWord\obj\Debug\Luan_MiniWord.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindown\Luan_miniWord\obj\Debug\MiniWord_TrinhPhucHieu.exe
+D:\LapTrinhWindown\Luan_miniWord\obj\Debug\MiniWord_TrinhPhucHieu.pdb
+D:\LapTrinhWindown\Luan_miniWord\obj\Debug\MiniWord_TrinhPhucHieu.FrmLuan.resources
